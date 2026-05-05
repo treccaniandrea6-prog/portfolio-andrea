@@ -1,5 +1,13 @@
 const projects = [
   {
+    title: "JobTrackr – Job Application Management Platform",
+    description:
+      "A full-stack web application to track and manage job applications with authentication, CRUD operations and advanced filtering.",
+    tech: "React, Node.js, Express, MySQL, JWT",
+    live: "https://joobtrackr.netlify.app",
+    github: "https://github.com/treccaniandrea6-prog/JobTrackr",
+  },
+  {
     title: "Counter App",
     description:
       "Interactive counter built with pure JavaScript using DOM manipulation. It dynamically updates the UI in real time through event handling and logic for increment and decrement actions.",
