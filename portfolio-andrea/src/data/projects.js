@@ -28,7 +28,7 @@ const projects = [
     description:
       "React web application that replicates core features of the New York Times using the NYT API. Includes state management, reusable components, and asynchronous data fetching.",
     tech: "React, REST API, JavaScript",
-    live: "https://dashing-bengonia-75e402.netlify.app",
+    live: "https://dashing-begonia-75e402.netlify.app",
     github: "#",
   },
   {
